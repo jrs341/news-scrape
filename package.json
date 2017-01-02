@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/jrs341/news-scrape/issues"
   },
-  "homepage": "https://github.com/jrs341/news-scrape#readme"
+  "homepage": "https://github.com/jrs341/news-scrape#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "request": "^2.79.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.7.5"
+  },
+  "devDependencies": {}
 }
